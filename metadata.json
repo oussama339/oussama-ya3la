@@ -1,0 +1,7 @@
+{
+  "name": " Gemini Voice & Live",
+  "description": "A dual-mode conversational application featuring real-time Live API interactions and high-quality Text-to-Speech generation using Gemini 2.5 models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
